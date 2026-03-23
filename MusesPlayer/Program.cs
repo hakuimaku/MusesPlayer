@@ -6,6 +6,8 @@ using System.Windows.Forms;
 
 namespace MusesPlayer
 {
+
+
     internal static class Program
     {
         /// <summary>
